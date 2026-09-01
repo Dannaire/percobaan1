@@ -1,4 +1,5 @@
 // --- DATA KALIBRASI 3 TITIK (Multi-Point Calibration) ---
+//coba ubah kodingan
 // Nilai pembacaan lama (sebelum kalibrasi) vs Nilai pH standar
 const float PH_READ_ASAM   = 5.40;   // Pembacaan lama saat di larutan Asam
 const float PH_TRUE_ASAM   = 4.01;   // Nilai sebenarnya (Buffer 4.01)
